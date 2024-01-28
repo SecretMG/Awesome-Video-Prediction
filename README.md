@@ -1,6 +1,6 @@
 # Awesome-Video-Prediction
 
-This is a list of awesome articles about video prediction and related work.
+This is a list of awesome articles in the video prediction realm.
 
 ## [1 Survey](./paper%20list/1%20Survey.md)
 ## [2 Dataset](./paper%20list/2%20Dataset.md)
