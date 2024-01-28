@@ -2,9 +2,9 @@
 
 This is a list of awesome articles about video prediction and related work.
 
-## [1 Survey](1 Survey.md)
-## 2 Dataset
-## 3 Algorithm
+## [1 Survey](./paper%20list/1%20Survey.md)
+## [2 Dataset](./paper%20list/2%20Dataset.md)
+## [3 Algorithm](./paper%20list/3%20Algorithm.md)
 ### 3.1 Deterministic Prediction
 #### 3.1.1 Raw Pixel Space
 ##### 3.1.1.1 RNN
@@ -31,15 +31,15 @@ This is a list of awesome articles about video prediction and related work.
 ### 3.3 Generative Prediction
 #### 3.3.1 Unconditional
 #### 3.3.2 Text
-## 4 Loss
+## [4 Loss](./paper%20list/4%20Loss.md)
 ### 4.1 Pixel Loss
 ### 4.2 Perceptual Loss
 ### 4.3 Stochastic Loss
-## 5 Metric
+## [5 Metric](./paper%20list/5%20Metric.md)
 ### 5.1 Structural Metric
 ### 5.2 Perceptual Metric
 ### 5.3 Stochastic Metric
-## 6 Related Domain
+## [6 Related Domain](./paper%20list/6%20Related%20Domain.md)
 ### 6.1 Representation Learning
 #### 6.1.1 Dataset
 #### 6.1.2 Algorithm
@@ -54,10 +54,10 @@ This is a list of awesome articles about video prediction and related work.
 #### 6.4.6 Text & Image
 #### 6.4.7 Image & Audio
 ### 6.5 Video Compression
-## 7 Challenge
+## [7 Challenge](./paper%20list/7%20Challenge.md)
 ### 7.1 Long-Term
 ### 7.2 Generalization
-## 8 Application
+## [8 Application](./paper%20list/8%20Application.md)
 ### 8.1 Autonomous Driving
 ### 8.2 Robot Navigation
 ### 8.3 Cinema Industry
