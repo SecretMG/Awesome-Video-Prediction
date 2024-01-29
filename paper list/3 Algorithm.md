@@ -215,6 +215,7 @@
 | 2022 NIPS | NUWA-Infinity | [NUWA-Infinity：Autoregressive over Autoregressive Generation for Infinite Visual Synthesis]() | [NUWA-Infinity]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2022 TMLR | RaMViD | [Diffusion Models for Video Prediction and Infilling]() | [RaMViD]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2022.5.9 | Transframer | [Transframer：Arbitrary Frame Prediction with Generative Models]() | [Transframer]() ![Github stars](https://img.shields.io/github/stars/) |
+| 2022.6.22 | VDM | [Video Diffusion Models]() | [VDM]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2022.8.6 | MaskViT | [MaskViT：Masked Visual Pre-Training for Video Prediction]() | [MaskViT]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2023 CVPR | Video LDM | [Align your Latents：High-Resolution Video Synthesis with Latent Diffusion Models]() | [Video LDM]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2023.11.6 | SEINE | [SEINE：Short-to-Long Video Diffusion Model for Generative Transition and Prediction]() | [SEINE]() ![Github stars](https://img.shields.io/github/stars/) |
