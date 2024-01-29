@@ -14,8 +14,10 @@
 | 2022 CS231n | VP | [Video Frame Prediction with Deep Learning]() | [VP]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2022 VC | VFI | [A Comprehensive Survey on Video Frame Interpolation Techniques]() | [VFI]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2022.9.27 | Stochastic | [Stochastic Future Prediction in Real World]() | [Stochastic]() ![Github stars](https://img.shields.io/github/stars/) |
+| 2023 CVPRW | VL | [Vision + Language Applications：A Survey]() | [VL]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2023 TOMM | VFI | [Video Frame Interpolation：A Comprehensive Survey]() | [VFI]() ![Github stars](https://img.shields.io/github/stars/) |
-| 2023.10.16 | Video Diffusion | [A Survey on Video Diffusion Models]() | [Video Diffusion]() ![Github stars](https://img.shields.io/github/stars/) |
+| 2023.9.22 | LAM | [Sparks of Large Audio Models：A Survey and Outlook]() | [LAM]() ![Github stars](https://img.shields.io/github/stars/) |
+| 2023.10.16 | VDM | [A Survey on Video Diffusion Models]() | [VDM]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2023.10.21 | AIGC | [AI-Generated Content (AIGC) for Various Data Modalities：A Survey]() | [AIGC]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2023.5.3 | VP using Optical Flow | [Improvement in Frame Prediction using Optical Flow]() | [VP using Optical Flow]() ![Github stars](https://img.shields.io/github/stars/) |
 | 2023.6.15 | World Models | [Neural World Models for Computer Vision]() | [World Models]() ![Github stars](https://img.shields.io/github/stars/) |
